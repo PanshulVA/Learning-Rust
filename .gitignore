@@ -1,0 +1,14 @@
+cat > .gitignore << 'EOF'
+# Ignore target directories in ALL subfolders
+**/target/
+
+# Ignore Cargo.lock in ALL subfolders
+**/Cargo.lock
+
+# Ignore JSON files everywhere
+**/*.json
+
+# Ignore IDE/OS specific files
+.DS_Store
+.vscode/
+EOF
