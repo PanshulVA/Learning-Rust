@@ -1,7 +1,5 @@
-# 🔥 RUST QUICK REFRESHER & GOTCHAS 🔥
-
-*(Read this when coming back from C++/Python)*
-
+# RUST QUICK REFERENCE GUIDE
+* Notes to come back to
 ## 1. THE BASICS
 
 * **Entry Point:** `fn main() {}` (Just like `int main()` in C/C++)
