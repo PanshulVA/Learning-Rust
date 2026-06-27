@@ -1,22 +1,3 @@
-# CS4xx: Comparative Programming Languages
-## Assignment 2: The Rust Paradigm Translation Guide
-
-**Student Name:** [Your Name]  
-**GitHub ID:** [@YourHandle]  
-**Date:** June 24, 2026  
-**Instructor:** [Tutor/Instructor Name]  
-
----
-
-### 📋 Assignment Objectives
-- [x] Create a comprehensive guide for transitioning from C/C++/Python to Rust.
-- [x] Map existing mental models (GC, manual memory management, OOP) to Rust's unique paradigms.
-- [x] Cover core concepts: Ownership, Borrowing, Structs, Enums, Error Handling, Traits, and **Lifetimes**.
-- [x] Include a polyglot translation matrix.
-- [x] Demonstrate understanding of Rust's safety guarantees in Concurrency.
-
----
-
 ## 1. High-Level Paradigm Shifts
 
 Learning Rust isn't about learning syntax; it's about learning the **Borrow Checker**. Since I already understand pointers and stack vs. heap memory from C/C++, and high-level abstractions from Python, here is the translation map:
