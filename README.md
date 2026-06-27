@@ -1,4 +1,4 @@
-#Learning Rust
+# Learning Rust
 
 Rust has grown far beyond its origins, evolving into a highly versatile language used by developers for everything from massive web backends and command-line tools to game engines. It truly is a language for all.
 
